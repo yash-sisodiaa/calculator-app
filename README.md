@@ -1,3 +1,4 @@
 # web-dev.
 using html and css
-Amazon clone.
+
+(Amazon clone project).
